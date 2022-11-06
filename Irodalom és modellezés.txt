@@ -1,0 +1,15 @@
+FONTOS IRODALOM:
+
+Bert
+- Attention is all you need (eredeti BERT-ees papír)
+
+Magyar szövegösszefoglalás:
+- http://acta.bibl.u-szeged.hu/67658/1/msznykonf_016_343-353.pdf?fbclid=IwAR3JJQobyYAZqgDxbnllQYM-apYxV6NrH_nxw6LrTiUXphntL4fYSPB1hrQ
+- https://www.researchgate.net/publication/351726875_Abstractive_text_summarization_for_Hungarian
+
+Megoldás a hosszú szövegekre:
+- https://arxiv.org/pdf/1905.05583.pdf 
+(lényegében kétféle módszer: chunk-okra bontás, vagy csak az elejét/végét/elejét+végét vesszük a szövegnek)
+- https://arxiv.org/pdf/2004.05150.pdf
+(Longformer: hosszú szövegeket kezelni képes architektúra, viszont ez csak angolra van egyelőre)
+
