@@ -6,6 +6,7 @@ Bert
 Magyar szövegösszefoglalás:
 - http://acta.bibl.u-szeged.hu/67658/1/msznykonf_016_343-353.pdf?fbclid=IwAR3JJQobyYAZqgDxbnllQYM-apYxV6NrH_nxw6LrTiUXphntL4fYSPB1hrQ
 - https://www.researchgate.net/publication/351726875_Abstractive_text_summarization_for_Hungarian
+- http://acta.bibl.u-szeged.hu/75896/1/msznykonf_018_505-519.pdf
 
 Megoldás a hosszú szövegekre:
 - https://arxiv.org/pdf/1905.05583.pdf 
