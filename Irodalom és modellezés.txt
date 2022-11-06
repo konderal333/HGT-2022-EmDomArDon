@@ -13,3 +13,8 @@ Megoldás a hosszú szövegekre:
 - https://arxiv.org/pdf/2004.05150.pdf
 (Longformer: hosszú szövegeket kezelni képes architektúra, viszont ez csak angolra van egyelőre)
 
+
+
+Cuccok:
+https://github.com/oroszgy/awesome-hungarian-nlp
+
