@@ -18,3 +18,12 @@ Megoldás a hosszú szövegekre:
 Cuccok:
 https://github.com/oroszgy/awesome-hungarian-nlp
 
+
+3-féle modellezés:
+- meghagyjuk a szöveg elejét és végét, és arra summarizálunk
+- legfeljebb 510 tokenes chunk-okra bontjuk a szöveget, minden chunkot summarizálunk, majd a summarikat is summarizáljuk
+- iterálva:
+  STEP 1: első 510 token lesz a chunk
+  STEP 2: a chunkra summary
+  STEP 3: az új chunkot úgy képezzük, hogy a summary + a szöveg további, még nem vizsgált mondatai
+  STEP 4: Go to 2, ha az új chunk-ban nem csak az előző summary-ja volt, else: kész a summary
