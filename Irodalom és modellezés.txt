@@ -28,3 +28,6 @@ https://github.com/oroszgy/awesome-hungarian-nlp
   STEP 2: a chunkra summary
   STEP 3: az új chunkot úgy képezzük, hogy a summary + a szöveg további, még nem vizsgált mondatai
   STEP 4: Go to 2, ha az új chunk-ban nem csak az előző summary-ja volt, else: kész a summary
+
+Summarization-höz hasznos repó:
+https://github.com/dmmiller612/bert-extractive-summarizer
